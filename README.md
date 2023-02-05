@@ -9,8 +9,3 @@ A: You can find it in <insert link>
   
 Q: Where can i get support for a error
 A: Make a Issue and i'll helo you from there
-
-## Server
-This isn't a support server so expect no support for your code, this is just where I hang out and chat.
-
-https://discord.gg/theholygang
